@@ -5,7 +5,7 @@ Este proyecto presenta un footer con un "pop-up" sobre el propio footer con un g
 ---
 
 <div align="center">
-  <img src="footer-gradient.png" alt="footer-gradient" width="55%"/>
+  <img src="footer-gradient.png" alt="footer-gradient" width="100%"/>
 </div>
 
 
